@@ -1,0 +1,15 @@
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\bin\Debug\net6.0\TrashFlix.exe
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\bin\Debug\net6.0\TrashFlix.deps.json
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\bin\Debug\net6.0\TrashFlix.runtimeconfig.json
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\bin\Debug\net6.0\TrashFlix.dll
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\bin\Debug\net6.0\TrashFlix.pdb
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.csproj.AssemblyReference.cache
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.AssemblyInfoInputs.cache
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.AssemblyInfo.cs
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.csproj.CoreCompileInputs.cache
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.dll
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\refint\TrashFlix.dll
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.pdb
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\TrashFlix.genruntimeconfig.cache
+C:\Users\hugoa\RiderProjects\TrashFlix\TrashFlix\obj\Debug\net6.0\ref\TrashFlix.dll
